@@ -7,7 +7,7 @@
     "keepAlive": "node ./lib/keepAlive.js"
   },
   "devDependencies": {
-    "@substrate/asset-transfer-api": "^0.2.0-beta.0",
+    "@substrate/asset-transfer-api": "^0.3.0",
     "@substrate/dev": "^0.7.1"
   }
 }

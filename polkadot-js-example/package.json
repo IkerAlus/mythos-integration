@@ -8,9 +8,9 @@
     "transferAll": "node ./lib/transferAll.js"
   },
   "devDependencies": {
-    "@polkadot/api": "^10.12.6",
+    "@polkadot/api": "^12.0.2",
     "@polkadot/keyring": "^12.6.2",
-    "@polkadot/types": "^10.12.6",
+    "@polkadot/types": "^12.0.2",
     "@polkadot/util-crypto": "^12.6.2",
     "@substrate/dev": "^0.7.1"
   }
