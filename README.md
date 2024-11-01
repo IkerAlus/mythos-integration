@@ -116,7 +116,7 @@ Currently, MYTH tokens can be sent and received using the calls mentioned previo
 
 #### Relevant tooling
 
-The Mythos Parachain will come with almost the same tooling suite [provided for the Relay Chain](https://wiki.polkadot.network/docs/build-integration#recommendation), namely [API Sidecar](https://github.com/paritytech/substrate-api-sidecar), [Polkadot-JS](https://wiki.polkadot.network/docs/learn-polkadotjs-index), [subxt](https://github.com/paritytech/subxt), and the [Asset Transfer API](https://github.com/paritytech/asset-transfer-api). If you have a technical question or issue about how to use one of the integration tools, please file a GitHub issue so a developer can help.
+The Mythos Parachain will come with almost the same tooling suite [provided for the Relay Chain](https://wiki.polkadot.network/docs/build-integration#recommendation), namely [API Sidecar](https://github.com/paritytech/substrate-api-sidecar), [Polkadot-JS](https://wiki.polkadot.network/docs/learn-polkadotjs-index), [subxt](https://github.com/paritytech/subxt), and the [Asset Transfer API](https://github.com/paritytech/asset-transfer-api). If you have a technical question or issue about how to use one of the integration tools, please file a GitHub issue so a developer can help. Recently, a first stable version of [Polkadot-API](https://papi.how/) has been released offering a more flexible and light weight approach for chain interaction. 
 
 
 ##### For transaction construction
